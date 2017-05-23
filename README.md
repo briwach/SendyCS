@@ -1,0 +1,2 @@
+# SendyCS
+Seny Case Study
