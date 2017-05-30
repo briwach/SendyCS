@@ -1,4 +1,8 @@
 # SendyCS
-Seny Case Study
+Sendy Case Study
 
-Performed in C# with ASP.net server side code
+Performed in C# using Windows Forms
+
+Installation Instructions
+  1. Copy the /SendyApp folder onto your PC
+  2. Run Setup.exe
